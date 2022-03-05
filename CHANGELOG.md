@@ -1,3 +1,6 @@
+## 1.0.0 Internal backup (2022-03-05)
+* Version in internal npm
+
 ## 1.3.6 Bugfix release (2016-08-29)
 * Updated dependencies
 * Fixed LESS template mixin call ([#187](https://github.com/jkphl/svg-sprite/pull/187))
