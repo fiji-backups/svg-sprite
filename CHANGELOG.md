@@ -1,3 +1,7 @@
+
+## 2.0.0 No PhantomJS (2022-03-05)
+* PhantomJS removed
+
 ## 1.0.0 Internal backup (2022-03-05)
 * Version in internal npm
 
